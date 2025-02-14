@@ -1,7 +1,7 @@
 ReactJS Application with Mock API and Deployment
 
 Overview
-This is a ReactJS + TypeScript CRUD application that uses a mock API (JSONPlaceholder) to demonstrate CRUD operations (Create, Read, Update, Delete). The project is styled with Tailwind CSS and deployed using Vercel or Netlify.
+This is a ReactJS + TypeScript CRUD application that uses a mock API (JSONPlaceholder) to demonstrate CRUD operations (Create, Read, Update, Delete). The project is styled with Tailwind CSS and deployed using Vercel.
 
 Features
 
@@ -26,7 +26,8 @@ Installation
 
 1. Clone the Repository
    git clone https://github.com/khalyanooo1/ReactJS-Application-with-Mock.git
-   cd react-crud-app
+   cd web-react-app
+
 
 2. Install Dependencies
    npm install
