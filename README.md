@@ -65,3 +65,6 @@ Deploy on Vercel
 
 2. Deploy:
    vercel
+
+Deployed application URL
+https://react-js-application-with-mock.vercel.app/
